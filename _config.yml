@@ -23,14 +23,14 @@ repository               : "ondrejdrobil/ondrejdrobil.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Ondřej Drobil"
   pronouns         : # example: "she/her"  
-  bio              : "Doing "
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "(Psycho)linguist at University of Stuttgart"
+  location         : "Stuttgart, Germany"
+  employer         : "University of Stuttgart"
+  uri              : https://www.ling.uni-stuttgart.de/en/institute/team/Drobil/
+  email            : "ondrej.drobil@ling.uni-stuttgart.de" 
 
   # Academic websites
   academia         : # URL
