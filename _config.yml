@@ -29,11 +29,11 @@ author:
   bio              : "(psycho)linguist at the University of Stuttgart"
   location         : "Stuttgart, Germany"
   employer         : "University of Stuttgart"
-  uri              : # 
+  uri              : "https://www.ling.uni-stuttgart.de/en/institute/team/Drobil/"
   email            : "ondrej.drobil@ling.uni-stuttgart.de" 
 
   # Academic websites
-  academia         : "https://www.ling.uni-stuttgart.de/en/institute/team/Drobil/"
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
   inspire-hep      : # URL
