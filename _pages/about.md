@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Institute of Linguistics, University . Since November 2025, I have been conducting research as a member of [Titus von der Malsburg’s](https://tmalsburg.github.io/) Psycholinguistics and Cognitive Modeling Lab.
+I am a PhD student at the Institute of Linguistics, University . Since November 2025, I have been conducting research as a member of [Titus von der Malsburg](https://tmalsburg.github.io/)'s Psycholinguistics and Cognitive Modeling Lab.
 
 I completed a Master's degree in Empirical and Comparative Linguistics and Bachelor's degrees in Intercultural Communication and Sociology at Charles University.
 
