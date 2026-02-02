@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ondřej Drobil - a (psycho)linguist in making"
+title: "Ondřej Drobil - a (psycho)linguist in the making"
 author_profile: true
 redirect_from: 
   - /about/
