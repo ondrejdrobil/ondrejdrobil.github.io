@@ -7,16 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Institute of Linguistics, University. Since November 2025, I have been conducting research as a member of [Titus von der Malsburg](https://tmalsburg.github.io/)'s Psycholinguistics and Cognitive Modeling Lab.
+I am a PhD student at the Institute of Linguistics, University of Stuttgart. Since November 2025, I have been conducting research as a member of [Titus von der Malsburg](https://tmalsburg.github.io/)'s Psycholinguistics and Cognitive Modeling Lab.
 
 I completed a Master's degree in Empirical and Comparative Linguistics and Bachelor's degrees in Intercultural Communication and Sociology at Charles University.
 
-My research interests lie in experimental and computational psycholinguistics. I am interested in incremental language processing, reading strategies, corpus methods, and cognitive modeling.
+Previously, I was a member of the [Experimental Research on Central European Languages (ERCEL) Lab](https://ercel.ff.cuni.cz/) and [Artificial Intelligence Language Lab (AILL)](https://www.aill.cz/) at Charles University, Czechia.
+
+My research interests lie in experimental and computational psycholinguistics. I am interested in incremental language processing, reading strategies, corpus methods, large kanguage models and cognitive modeling.
 
 ---
 
 ## News
-* TBA
+* November 2025 - I joined [Titus von der Malsburg](https://tmalsburg.github.io/)'s Lab at the University of Stuttgart.
 
 ---
 ## Publications
