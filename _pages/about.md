@@ -32,4 +32,4 @@ My research interests lie in experimental and computational psycholinguistics. I
 ---
 
 ## Teaching
-* TBA in Summer Semester 2027
+* SS 2026: Research colloquium: Experimental and computational psycholinguistics (co-organized by Titus von der Malsburg, Candy Adusei and Qibi Wang)
