@@ -13,7 +13,7 @@ I completed a Master's degree in Empirical and Comparative Linguistics and Bache
 
 Previously, I was a member of the [Experimental Research on Central European Languages (ERCEL) Lab](https://ercel.ff.cuni.cz/) and [Artificial Intelligence Language Lab (AILL)](https://www.aill.cz/) at Charles University, Czechia.
 
-My research interests lie in experimental and computational psycholinguistics. I am interested in incremental language processing, reading strategies, corpus methods, large kanguage models and cognitive modeling.
+My research interests lie in experimental and computational psycholinguistics. I am interested in incremental language processing, reading strategies, corpus methods, large language models and cognitive modeling.
 
 ---
 
