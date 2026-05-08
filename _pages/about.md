@@ -18,6 +18,7 @@ My research interests lie in experimental and computational psycholinguistics. I
 ---
 
 ## News
+* May 2026 - Our study "Syntactic boundary effects in connected texts: Processing delays occur at the beginning and end of syntactic clauses." got accepted as a talk at [The European Conference on Eye Movements (ECEM)](https://www.uni-ulm.de/in/ecem2026/) in Ulm.
 * November 2025 - I joined [Titus von der Malsburg](https://tmalsburg.github.io/)'s Lab at the University of Stuttgart.
 
 ---
