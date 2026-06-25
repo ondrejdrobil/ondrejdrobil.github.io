@@ -18,6 +18,8 @@ My research interests lie in experimental and computational psycholinguistics. I
 ---
 
 ## News
+* June 2026 - Our study "Sentence and clause boundary effects challenge strict incrementality in sentence comprehension" got accepted as a poster at [AMLaP 2026]([https://www.uni-ulm.de/in/ecem2026/](https://www.uni-saarland.de/fakultaet-p/amlap.html) in Saarbrücken.
+* June 2026 - I presented a poster "Clause Boundary Effects Connected Text: Readers Slow Down at the Beginning and End of Syntactic Clauses" at the [The 4th Workshop on Eye Movements and the Assessment of Reading Comprehension](https://www.uni-koblenz.de/de/bildungswissenschaften/institut-fuer-foerderpaedagogik/foerderpaedagogik-im-schwerpunkt-sprache/jprof-dr-phil-maja-stegenwallner-schuetz/rcworkshop) in Koblenz.
 * May 2026 - Our study "Syntactic boundary effects in connected texts: Processing delays occur at the beginning and end of syntactic clauses." got accepted as a talk at [The European Conference on Eye Movements (ECEM)](https://www.uni-ulm.de/in/ecem2026/) in Ulm.
 * November 2025 - I joined [Titus von der Malsburg](https://tmalsburg.github.io/)'s Lab at the University of Stuttgart.
 
